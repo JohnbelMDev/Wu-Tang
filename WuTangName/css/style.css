@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+}
+
+header{
+
+  height: 10rem;
+  background-color: yellow;
+}
+
+body{
+  background-color: green;
+}
+
+h1{
+  text-align: center;
+  padding-top:2%;
+  color: blue;
+}
+
+.labelSelection{
+  width: 50%;
+  height: 23rem;
+  margin-top: 4%;
+  background-color: white;
+  margin-left: 30%;
+}
+select, label{
+   margin-left: 32%;
+   margin-top: 4%;
+   width: 30%;
+   display:block;
+   padding-left: 2%;
+}
+
+select:hover{
+  background-color: pink;
+}
